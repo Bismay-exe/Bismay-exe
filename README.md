@@ -22,6 +22,7 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Post](https://dev.to/bismay-exe/my-first-post-3oon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
