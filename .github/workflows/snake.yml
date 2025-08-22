@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:         # manual trigger option
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,10 +13,12 @@ jobs:
         with:
           github_user_name: Bismay-exe
           outputs: dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
