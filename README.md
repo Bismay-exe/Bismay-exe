@@ -51,6 +51,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bismay-exe&show_icons=true&theme=transparent&bg_color=30,000000,434343&title_color=FF61D8&text_color=FFFFFF&icon_color=00FFF7&hide_border=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Bismay-exe&theme=transparent&background=000000&ring=00FFF7&fire=FF61D8&currStreakLabel=FFD700&sideNums=FFFFFF&hide_border=true" height="180" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismay-exe&layout=compact&theme=transparent&bg_color=30,000000,434343&title_color=FF61D8&text_color=FFFFFF&hide_border=true" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bismay-exe&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bismay-exe&theme=react-dark&bg_color=000000&color=00FFF7&line=FF61D8&point=FFD700&hide_border=true" />
+</p>
+
 
 ---
 
