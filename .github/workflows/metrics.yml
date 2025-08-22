@@ -1,13 +1,13 @@
 name: Metrics
 
 on:
-  # Rebuild once a day + allow manual runs
+  # Runs once per day + manual trigger
   schedule:
-    - cron: "30 0 * * *"   # 06:00 IST
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # allow the action to push the generated SVG
+  contents: write   # Allow writing the generated SVG to your repo
 
 jobs:
   github-metrics:
@@ -16,33 +16,38 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Use the built-in GitHub token (no PAT needed for public data)
-          token: ${{ secrets.PAT_TOKEN }}
+          # Built-in token works for public repos
+          token: ${{ secrets.GITHUB_TOKEN }}
 
+          # Profile config
           user: Bismay-exe
           template: classic
           filename: metrics.svg
           config_timezone: Asia/Kolkata
 
-          # What to include (tweak as you like)
+          # Sections
           base: header, activity, community, repositories, metadata
 
+          # Plugins
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          plugin_achievements: yes
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: compact
+          plugin_isocalendar_duration: half-year
 
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+
+          plugin_lines: yes
 
           plugin_followup: yes
           plugin_followup_sections: user
 
-          plugin_lines: yes
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_from: 200
+          plugin_stars: yes
+          plugin_stars_limit: 3
