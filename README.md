@@ -27,8 +27,8 @@
   <a href="https://github.com/Bismay-exe/Beautiful-Notes">
     <img src="assets/card2.png" width="400px" />
   </a>
-  <a href="https://github.com/Bismay-exe/My-Heavenly-Archive">
-    <img src="assets/card8.png" width="400px" />
+  <a href="https://github.com/Bismay-exe/Bismay-exe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bismay-exe&repo=Bismay-exe&theme=radical" />
   </a>
 </p>
 
