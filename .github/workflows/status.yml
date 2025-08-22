@@ -1,0 +1,37 @@
+name: Profile Status
+
+on:
+  workflow_run:
+    workflows: ["Programming Meme", "Dynamic Badges", "Language Pie Chart", "Daily ASCII"]
+    types:
+      - completed
+  workflow_dispatch:
+
+jobs:
+  status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set status and timestamp
+        run: |
+          ts=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          if [ "${{ github.event.workflow_run.conclusion }}" = "success" ]; then
+            echo '{"schemaVersion":1,"label":"Profile Updates","message":"✅ Up-to-date","color":"brightgreen"}' > status.json
+            echo '{"schemaVersion":1,"label":"Last Updated","message":"'"$ts"'","color":"blue"}' > timestamp.json
+          else
+            echo '{"schemaVersion":1,"label":"Profile Updates","message":"❌ Failed","color":"red"}' > status.json
+            echo '{"schemaVersion":1,"label":"Last Updated","message":"'"$ts"'","color":"lightgrey"}' > timestamp.json
+          fi
+
+      - name: Upload to Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          gist_id: <YOUR_GIST_ID>
+          file_path: status.json
+
+      - name: Upload Timestamp to Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          gist_id: <YOUR_GIST_ID>
+          file_path: timestamp.json
