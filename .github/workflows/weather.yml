@@ -1,0 +1,20 @@
+name: Weather Update
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # every 3 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Weather
+        run: |
+          curl -s "http://api.openweathermap.org/data/2.5/weather?q=Bhubaneswar&appid=${{ secrets.OPENWEATHER_API_KEY }}&units=metric" \
+          | jq -r '"🌡️ " + (.main.temp|tostring) + "°C  ☁️ " + .weather[0].description' > weather.txt
+      - name: Commit Weather
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated weather"
+          file_pattern: weather.txt
