@@ -25,10 +25,10 @@
 
 <p align="center">
   <a href="https://github.com/Bismay-exe/Beautiful-Notes">
-    <img src="assets/project1-card2.png" width="400px" />
+    <img src="assets/card2.png" width="400px" />
   </a>
   <a href="https://github.com/Bismay-exe/My-Heavenly-Archive">
-    <img src="assets/project1-card8.png" width="400px" />
+    <img src="assets/card8.png" width="400px" />
   </a>
 </p>
 
