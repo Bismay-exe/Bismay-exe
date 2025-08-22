@@ -55,9 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismay-exe&layout=compact&theme=transparent&bg_color=30,000000,434343&title_color=FF61D8&text_color=FFFFFF&hide_border=true" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bismay-exe&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bismay-exe&theme=react-dark&bg_color=000000&color=00FFF7&line=FF61D8&point=FFD700&hide_border=true" />
 </p>
 
@@ -68,6 +65,15 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bismay-exe/Bismay-exe/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+## 📊 GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=📊%20My%20Metrics&fontAlign=50&fontAlignY=35&fontSize=25&fontColor=FFFFFF" />
+  <img src="https://raw.githubusercontent.com/Bismay-exe/Bismay-exe/main/metrics.svg" width="95%" />
 </p>
 
 ---
