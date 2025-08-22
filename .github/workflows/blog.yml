@@ -9,7 +9,12 @@ jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Update blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/bismay-exe"
