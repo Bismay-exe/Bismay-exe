@@ -1,21 +1,23 @@
-name: Language Pie Chart
+name: Language Usage Pie Chart
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # weekly (Sunday midnight)
+    - cron: "0 */24 * * *" # daily
   workflow_dispatch:
 
 jobs:
-  pie:
+  piechart:
     runs-on: ubuntu-latest
     steps:
-      - uses: JayKan/github-stats-pie@v1.2.0
-        with:
-          username: Bismay-exe
-          output: pie.png
+      - name: Fetch Languages
+        run: |
+          langs=$(curl -s https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100 | jq -r '.[].language' | sort | uniq -c | sort -nr | head -n 5 | jq -R -s -c 'split("\n")[:-1]')
+          echo $langs > langs.json
+          echo '{"schemaVersion":1,"label":"Languages","message":"Pie Chart →","color":"blue","link":"https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=pie"}' > piechart.json
 
-      - name: Commit Pie Chart
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Upload Pie Chart Badge
+        uses: exuanbo/actions-deploy-gist@v1
         with:
-          commit_message: "chore: update language pie chart"
-          file_pattern: pie.png
+          token: ${{ secrets.PAT_TOKEN }}
+          gist_id: ee32a0096896ccc81e0302d6852fecb3
+          file_path: piechart.json
