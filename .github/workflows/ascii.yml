@@ -1,8 +1,8 @@
-name: Daily ASCII
+name: ASCII Art Updater
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily
+    - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -11,12 +11,12 @@ jobs:
     steps:
       - name: Generate ASCII
         run: |
-          curl -s http://artii.herokuapp.com/make?text=Bismay > ascii.txt
+          ascii=$(curl -s https://artii.herokuapp.com/make?text=${{ github.repository_owner }} | head -n 5)
+          echo '{"schemaVersion":1,"label":"ASCII","message":"'"$(echo $ascii | head -c 20)"'...","color":"pink"}' > ascii.json
 
-      - name: Update README
-        run: |
-          sed -i '/<!-- ASCII-START -->/,/<!-- ASCII-END -->/c\<!-- ASCII-START -->\n``` \n'"$(cat ascii.txt)"'\n``` \n<!-- ASCII-END -->' README.md
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Upload ASCII Badge
+        uses: exuanbo/actions-deploy-gist@v1
         with:
-          commit_message: "chore: update ASCII art"
+          token: ${{ secrets.PAT_TOKEN }}
+          gist_id: ee32a0096896ccc81e0302d6852fecb3
+          file_path: ascii.json
