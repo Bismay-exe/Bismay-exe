@@ -1,23 +1,22 @@
-name: Programming Meme
+name: Programming Meme Updater
 
 on:
   schedule:
-    - cron: "0 6 * * *" # daily at 6 AM
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
 jobs:
   meme:
     runs-on: ubuntu-latest
     steps:
-      - name: Get meme
+      - name: Fetch Meme
         run: |
-          curl -s https://meme-api.com/gimme/ProgrammerHumor \
-          | jq -r '.url' > meme.txt
+          url=$(curl -s https://meme-api.com/gimme/programming | jq -r '.url')
+          echo '{"schemaVersion":1,"label":"Meme","message":"😂 New Meme","color":"orange","link":"'"$url"'"}' > meme.json
 
-      - name: Update README
-        run: |
-          sed -i '/<!-- MEME-START -->/,/<!-- MEME-END -->/c\<!-- MEME-START -->\n![]('"$(cat meme.txt)"')\n<!-- MEME-END -->' README.md
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Upload Meme Badge
+        uses: exuanbo/actions-deploy-gist@v1
         with:
-          commit_message: "chore: update meme"
+          token: ${{ secrets.PAT_TOKEN }}
+          gist_id: ee32a0096896ccc81e0302d6852fecb3
+          file_path: meme.json
