@@ -1,0 +1,23 @@
+name: Programming Meme
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 6 AM
+  workflow_dispatch:
+
+jobs:
+  meme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get meme
+        run: |
+          curl -s https://meme-api.com/gimme/ProgrammerHumor \
+          | jq -r '.url' > meme.txt
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- MEME-START -->/,/<!-- MEME-END -->/c\<!-- MEME-START -->\n![]('"$(cat meme.txt)"')\n<!-- MEME-END -->' README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update meme"
