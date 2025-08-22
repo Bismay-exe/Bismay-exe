@@ -25,13 +25,13 @@ jobs:
       - name: Upload to Gist
         uses: exuanbo/actions-deploy-gist@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          gist_id: <YOUR_GIST_ID>
+          token: ${{ secrets.PAT_TOKEN }}
+          gist_id: <ee32a0096896ccc81e0302d6852fecb3>
           file_path: status.json
 
       - name: Upload Timestamp to Gist
         uses: exuanbo/actions-deploy-gist@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          gist_id: <YOUR_GIST_ID>
+          token: ${{ secrets.PAT_TOKEN }}
+          gist_id: <ee32a0096896ccc81e0302d6852fecb3>
           file_path: timestamp.json
