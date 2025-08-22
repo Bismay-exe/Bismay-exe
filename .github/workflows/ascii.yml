@@ -1,0 +1,22 @@
+name: Daily ASCII
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily
+  workflow_dispatch:
+
+jobs:
+  ascii:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate ASCII
+        run: |
+          curl -s http://artii.herokuapp.com/make?text=Bismay > ascii.txt
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- ASCII-START -->/,/<!-- ASCII-END -->/c\<!-- ASCII-START -->\n``` \n'"$(cat ascii.txt)"'\n``` \n<!-- ASCII-END -->' README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update ASCII art"
