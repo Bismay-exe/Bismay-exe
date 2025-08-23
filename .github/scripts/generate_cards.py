@@ -4,7 +4,7 @@ import os, re
 
 USERNAME = "Bismay-exe"
 ASSETS_DIR = "assets/generated"
-CARD_TEMPLATE = "assets/card.png"
+CARD_TEMPLATE = "assets/card2.png"
 README_FILE = "README.md"
 
 # Create output folder
