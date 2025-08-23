@@ -61,6 +61,13 @@
 
 ---
 
+## ASCII Banner
+
+<!--ascii-start-->
+<!--ascii-end-->
+
+---
+
 ## 🐍 Contribution Snake  
 
 <p align="center">
