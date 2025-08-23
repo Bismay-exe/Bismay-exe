@@ -107,27 +107,15 @@ _|_|_|    _|    _|  _|  _|_|_|        _|      _|_|  _|        _|_|        _|
 ## 📦 My Projects
 
 <p align="center">
-<a href="https://github.com/Bismay-exe/Beautiful-Notes">
-  <img src="assets/generated/Beautiful-Notes-card.png" width="400" />
-</a>
-<a href="https://github.com/Bismay-exe/Bismay-exe">
-  <img src="assets/generated/Bismay-exe-card.png" width="400" />
-</a>
+
 </p>
 
 <p align="center">
-<a href="https://github.com/Bismay-exe/Demo">
-  <img src="assets/generated/Demo-card.png" width="400" />
-</a>
-<a href="https://github.com/Bismay-exe/Mechanical-Calculator">
-  <img src="assets/generated/Mechanical-Calculator-card.png" width="400" />
-</a>
+
 </p>
 
 <p align="center">
-<a href="https://github.com/Bismay-exe/My-Heavenly-Archive">
-  <img src="assets/generated/My-Heavenly-Archive-card.png" width="400" />
-</a>
+
 </p>
 
 <!-- CARDS-END -->
