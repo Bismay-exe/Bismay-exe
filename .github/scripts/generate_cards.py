@@ -40,8 +40,7 @@ for i, repo in enumerate(repos, start=1):
 
     # --- Add to README section ---
     repo_link = f"https://github.com/{USERNAME}/{name}"
-    card_md = f'<a href="{repo_link}">\n  <img src="{output_path}" width="400" />\n</a>'
-    row.append(card_md)
+    card_md = f'<a href="{repo_link}">\n  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/main/{output_path}" width="400" />\n</a>'
 
     if i % 2 == 0 or i == len(repos):  # 2 per row
         cards_md.append("<p align=\"center\">\n" + "\n".join(row) + "\n</p>\n")
