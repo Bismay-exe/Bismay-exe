@@ -1,68 +1,80 @@
-import os
 import requests
 from PIL import Image, ImageDraw, ImageFont
+import os, re
 
-# Config
 USERNAME = "Bismay-exe"
-BACKGROUND = "assets/card2.png"
-OUTPUT_DIR = "assets/generated"
-README_PATH = "README.md"
-FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+ASSETS_DIR = "assets/generated"
+CARD_TEMPLATE = "assets/card.png"
+README_FILE = "README.md"
 
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+# Create output folder
+os.makedirs(ASSETS_DIR, exist_ok=True)
 
-# Fetch all public repos (default order = last updated)
-url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
-repos = requests.get(url).json()
+# Fetch repos (public only)
+repos = requests.get(
+    f"https://api.github.com/users/{USERNAME}/repos?per_page=100&sort=updated"
+).json()
 
-cards_md = ["## 📦 My Projects\n"]
+cards_md = []
 
-row = []
-for i, repo in enumerate(repos, start=1):
-    name = repo["name"]
-    description = repo["description"] or "No description"
-    stars = repo["stargazers_count"]
-    forks = repo["forks_count"]
+for repo in repos:
+    repo_name = repo["name"]
+    repo_desc = repo["description"] or ""
+    repo_link = repo["html_url"]
 
-    # --- Generate card image ---
-    img = Image.open(BACKGROUND).convert("RGBA")
-    draw = ImageDraw.Draw(img)
+    # Open card background
+    card = Image.open(CARD_TEMPLATE).convert("RGBA")
+    draw = ImageDraw.Draw(card)
 
-    font_big = ImageFont.truetype(FONT, 40)
-    font_small = ImageFont.truetype(FONT, 20)
+    try:
+        font_title = ImageFont.truetype("arial.ttf", 28)
+        font_desc = ImageFont.truetype("arial.ttf", 18)
+    except:
+        font_title = ImageFont.load_default()
+        font_desc = ImageFont.load_default()
 
-    draw.text((50, 50), name, font=font_big, fill="white")
-    draw.text((50, 120), description[:60], font=font_small, fill="white")
-    draw.text((50, 180), f"⭐ {stars}   🍴 {forks}", font=font_small, fill="white")
+    # Write repo name + description
+    draw.text((40, 40), repo_name, font=font_title, fill="white")
+    draw.text((40, 90), repo_desc[:80], font=font_desc, fill="white")
 
-    output_path = os.path.join(OUTPUT_DIR, f"{name}-card.png")
-    img.save(output_path)
+    # Save card
+    output_path = f"{ASSETS_DIR}/{repo_name}-card.png"
+    card.save(output_path)
 
-    # --- Add to README section ---
-    repo_link = f"https://github.com/{USERNAME}/{name}"
-    card_md = f'<a href="{repo_link}">\n  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/main/{output_path}" width="400" />\n</a>'
+    # Markdown entry (relative path works in GitHub README)
+    card_md = (
+        f'<a href="{repo_link}">\n'
+        f'  <img src="./{output_path}" width="400" />\n'
+        f'</a>'
+    )
+    cards_md.append(card_md)
 
-    if i % 2 == 0 or i == len(repos):  # 2 per row
-        cards_md.append("<p align=\"center\">\n" + "\n".join(row) + "\n</p>\n")
-        row = []
+# Group cards into rows of 2
+rows = []
+for i in range(0, len(cards_md), 2):
+    rows.append("<p align='center'>\n" + "\n".join(cards_md[i:i+2]) + "\n</p>")
 
-# --- Update README.md ---
-if os.path.exists(README_PATH):
-    with open(README_PATH, "r", encoding="utf-8") as f:
-        readme_content = f.read()
+new_cards_section = (
+    "<!-- CARDS-START -->\n" + "\n\n".join(rows) + "\n<!-- CARDS-END -->"
+)
+
+# Read README
+with open(README_FILE, "r", encoding="utf-8") as f:
+    readme_content = f.read()
+
+# Replace existing section or append if missing
+if re.search(r"<!-- CARDS-START -->.*<!-- CARDS-END -->", readme_content, flags=re.S):
+    new_readme = re.sub(
+        r"<!-- CARDS-START -->.*<!-- CARDS-END -->",
+        new_cards_section,
+        readme_content,
+        flags=re.S,
+    )
 else:
-    readme_content = ""
+    new_readme = readme_content.strip() + "\n\n" + new_cards_section
 
-start_marker = "<!-- CARDS-START -->"
-end_marker = "<!-- CARDS-END -->"
-
-before = readme_content.split(start_marker)[0]
-after = readme_content.split(end_marker)[-1] if end_marker in readme_content else ""
-
-new_cards_section = start_marker + "\n" + "\n".join(cards_md) + "\n" + end_marker
-new_readme = before + new_cards_section + after
-
-with open(README_PATH, "w", encoding="utf-8") as f:
+# Write updated README
+with open(README_FILE, "w", encoding="utf-8") as f:
     f.write(new_readme)
 
 print("✅ README.md updated with repo cards")
