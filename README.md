@@ -19,9 +19,50 @@
   <img src="https://img.shields.io/badge/Open--Source-Collaborator-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
 </p>
 
+---
+
+## 🌐 Connect with me
+
 <p align="center">
-  <b>Some of my projects (glassy cards 💎):</b>
+  <a href="https://github.com/Bismay-exe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://instagram.com/bismay.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://t.me/bismay_exe" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://threads.net/@bismay.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=1a1a1a" />
+  </a>
+
+  <a href="https://t.me/BismaysInventory" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Group-32CD32?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" />
+  </a>
+</p>
+
+
+---
+
+## 💎 Some Of My Projects
 
 <p align="center">
   <a href="https://github.com/Bismay-exe/Bismay-exe">
