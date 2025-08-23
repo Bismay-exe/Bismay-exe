@@ -103,3 +103,31 @@ _|_|_|    _|    _|  _|  _|_|_|        _|      _|_|  _|        _|_|        _|
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"/><br>
   <b>“Code is like art 🎨 — every line you write shapes the future you’re building.”</b>
 </p>
+<!-- CARDS-START -->
+## 📦 My Projects
+
+<p align="center">
+<a href="https://github.com/Bismay-exe/Beautiful-Notes">
+  <img src="assets/generated/Beautiful-Notes-card.png" width="400" />
+</a>
+<a href="https://github.com/Bismay-exe/Bismay-exe">
+  <img src="assets/generated/Bismay-exe-card.png" width="400" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Bismay-exe/Demo">
+  <img src="assets/generated/Demo-card.png" width="400" />
+</a>
+<a href="https://github.com/Bismay-exe/Mechanical-Calculator">
+  <img src="assets/generated/Mechanical-Calculator-card.png" width="400" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Bismay-exe/My-Heavenly-Archive">
+  <img src="assets/generated/My-Heavenly-Archive-card.png" width="400" />
+</a>
+</p>
+
+<!-- CARDS-END -->
