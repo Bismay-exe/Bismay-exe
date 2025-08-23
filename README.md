@@ -74,6 +74,9 @@
   <a href="https://github.com/Bismay-exe/My-Heavenly-Archive">
     <img src="assets/card3.png" width="400px" />
   </a>
+  <a href="https://github.com/Bismay-exe/Mechanical-Calculator">
+    <img src="assets/card4.png" width="400px" />
+  </a>
 </p>
 
 ---
