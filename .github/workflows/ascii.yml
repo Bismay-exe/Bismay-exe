@@ -3,7 +3,7 @@ name: Update ASCII in README
 on:
   schedule:
     - cron: "0 */6 * * *"   # run every 6 hours
-  workflow_dispatch:         # allow manual trigger
+  workflow_dispatch:         # 👈 manual trigger button
 
 jobs:
   ascii-readme:
@@ -15,15 +15,26 @@ jobs:
       - name: Install figlet
         run: sudo apt-get update && sudo apt-get install -y figlet
 
+      - name: Pick preview message
+        run: |
+          PREVIEW_MSG=$(shuf -n 1 messages.txt)
+          echo "PREVIEW_MSG=$PREVIEW_MSG" >> $GITHUB_ENV
+
+      - name: Preview all available fonts
+        run: |
+          echo "📜 Available figlet fonts (showing first 20):"
+          for f in $(showfigfonts | awk '{print $1}' | head -n 20); do
+            echo
+            echo ">>> Font: $f"
+            figlet -f "$f" "$PREVIEW_MSG"
+          done
+
       - name: Pick random font and message
         run: |
-          # Fonts list (expandable)
-          FONTS=("banner" "block" "bubble" "digital" "ivrit" "lean" "mini" "script" "shadow" "slant" "small" "standard")
+          # Curated font list
+          FONTS=("standard" "slant" "banner" "block" "shadow" "lean" "mini" "small" "digital" "bubble" "script")
 
-          # Pick random font
           FONT=${FONTS[$RANDOM % ${#FONTS[@]}]}
-
-          # Pick random message from messages.txt
           MSG=$(shuf -n 1 messages.txt)
 
           echo "FONT=$FONT" >> $GITHUB_ENV
@@ -44,7 +55,6 @@ jobs:
 
       - name: Update README.md
         run: |
-          # Replace content between markers with the new ASCII block
           awk 'BEGIN{p=1} /<!--ascii-start-->/ {print; system("cat ascii.txt"); p=0} /<!--ascii-end-->/ {p=1} p' README.md > tmp && mv tmp README.md
 
       - name: Commit and Push
