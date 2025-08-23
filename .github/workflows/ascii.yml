@@ -1,4 +1,4 @@
-name: Update ASCII in README
+name: ASCII
 
 on:
   schedule:
@@ -23,15 +23,18 @@ jobs:
       - name: Preview all available fonts
         run: |
           echo "📜 Available figlet fonts (showing first 20):"
+          echo "-------------------------------------------"
           for f in $(showfigfonts | awk '{print $1}' | head -n 20); do
             echo
             echo ">>> Font: $f"
-            figlet -f "$f" "$PREVIEW_MSG"
+            figlet -f "$f" "$PREVIEW_MSG" || echo "⚠️ Skipped font: $f"
           done
+          echo "-------------------------------------------"
+          echo "Scroll through this log to decide which fonts to keep in your curated list."
 
       - name: Pick random font and message
         run: |
-          # Curated font list
+          # Curated font list (edit this after previewing)
           FONTS=("standard" "slant" "banner" "block" "shadow" "lean" "mini" "small" "digital" "bubble" "script")
 
           FONT=${FONTS[$RANDOM % ${#FONTS[@]}]}
