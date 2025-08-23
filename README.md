@@ -10,120 +10,27 @@
 # Hi 👋, I'm Bismay-exe
 
 <!-- CARDS-START -->
-<!-- CARDS-END -->
-
-
----
-
-## 👾 Who Am I?  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160" />
+<p align='center'>
+<a href="https://github.com/Bismay-exe/Bismay-exe">
+  <img src="./assets/generated/Bismay-exe-card.png" width="400" />
+</a>
+<a href="https://github.com/Bismay-exe/Mechanical-Calculator">
+  <img src="./assets/generated/Mechanical-Calculator-card.png" width="400" />
+</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-in--Progress-00FFF7?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Dev.to-Writer-FF61D8?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Open--Source-Collaborator-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+<p align='center'>
+<a href="https://github.com/Bismay-exe/My-Heavenly-Archive">
+  <img src="./assets/generated/My-Heavenly-Archive-card.png" width="400" />
+</a>
+<a href="https://github.com/Bismay-exe/Beautiful-Notes">
+  <img src="./assets/generated/Beautiful-Notes-card.png" width="400" />
+</a>
 </p>
 
-<p align="center">
-  <b>Some of my projects (glassy cards 💎):</b>
+<p align='center'>
+<a href="https://github.com/Bismay-exe/Demo">
+  <img src="./assets/generated/Demo-card.png" width="400" />
+</a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Bismay-exe/Bismay-exe">
-    <img src="assets/card1.png" width="400px" />
-  </a>
-  <a href="https://github.com/Bismay-exe/Beautiful-Notes">
-    <img src="assets/card2.png" width="400px" />
-  </a>
-  <a href="https://github.com/Bismay-exe/My-Heavenly-Archive">
-    <img src="assets/card3.png" width="400px" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,nodejs,react,git,github,docker,linux,vscode&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats (Liquid Glass)  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bismay-exe&show_icons=true&theme=transparent&bg_color=30,000000,434343&title_color=FF61D8&text_color=FFFFFF&icon_color=00FFF7&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bismay-exe&theme=transparent&background=000000&ring=00FFF7&fire=FF61D8&currStreakLabel=FFD700&sideNums=FFFFFF&hide_border=true" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismay-exe&layout=compact&theme=transparent&bg_color=30,000000,434343&title_color=FF61D8&text_color=FFFFFF&hide_border=true" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bismay-exe&theme=react-dark&bg_color=000000&color=00FFF7&line=FF61D8&point=FFD700&hide_border=true" />
-</p>
-
-
----
-
-## ASCII Banner
-
-<!--ascii-start-->
-Font: `block`
-Message: `Ship it! 🐧`
-```text
-                                                            _|  _|      _|_|  
-  _|_|_|  _|        _|                _|    _|      _|        _|      _|      
-_|        _|_|_|        _|_|_|            _|_|_|_|  _|      _|  _|      _|    
-  _|_|    _|    _|  _|  _|    _|      _|    _|      _|        _|_|_|  _|  _|  
-      _|  _|    _|  _|  _|    _|      _|    _|              _|    _|    _|    
-_|_|_|    _|    _|  _|  _|_|_|        _|      _|_|  _|        _|_|        _|  
-                        _|                                            _|_|    
-                        _|                                                    
-```
-<!--ascii-end-->
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bismay-exe/Bismay-exe/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-## 📊 GitHub Metrics Dashboard
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=📊%20My%20Metrics&fontAlign=50&fontAlignY=35&fontSize=25&fontColor=FFFFFF" />
-  <img src="https://raw.githubusercontent.com/Bismay-exe/Bismay-exe/main/metrics.svg" width="95%" />
-</p>
-
----
-
-## ✨ Quote / Motto  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"/><br>
-  <b>“Code is like art 🎨 — every line you write shapes the future you’re building.”</b>
-</p>
-<!-- CARDS-START -->
-## 📦 My Projects
-
-<p align="center">
-
-</p>
-
-<p align="center">
-
-</p>
-
-<p align="center">
-
-</p>
-
 <!-- CARDS-END -->
