@@ -3,8 +3,11 @@ name: ASCII
 on:
   schedule:
     - cron: "0 */6 * * *"   # run every 6 hours
-  workflow_dispatch:         # 👈 manual trigger button
+  workflow_dispatch:
 
+permissions:
+  contents: write   # 👈 allow the workflow to push changes
+  
 jobs:
   ascii-readme:
     runs-on: ubuntu-latest
