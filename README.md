@@ -81,6 +81,44 @@
 
 ---
 
+## ✨ Featured Projects
+
+<p align="center">
+  <table>
+    <tr>
+      <!-- Beautiful Notes -->
+      <td align="center" width="33%">
+        <h3>📝 Beautiful Notes</h3>
+        <p>Take Beautiful Notes with Glassmorphism UI, Smart Search, Sorting, and Fullscreen</p>
+        <a href="https://bismay-exe.github.io/Beautiful-Notes/">
+          <img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
+        </a><br><br>
+        <img src="https://github.com/Bismay-exe/Beautiful-Notes/raw/main/assets/screenshots/notes-grid.png" width="250px" alt="Beautiful Notes Preview" />
+      </td>
+      <!-- Heavenly Archive -->
+      <td align="center" width="33%">
+        <h3>✨ Heavenly Archive</h3>
+        <p>Glassmorphism Media Gallery with Filters, Sorting, Backgrounds, and Lightbox</p>
+        <a href="https://bismay-exe.github.io/Heavenly-Archive/">
+          <img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
+        </a><br><br>
+        <img src="https://github.com/Bismay-exe/My-Heavenly-Archive/raw/main/assets/screenshots/light_mode.png" width="250px" alt="Heavenly Archive Preview" />
+      </td>
+      <!-- Mechanical Calculator -->
+      <td align="center" width="33%">
+        <h3>🖩 Mechanical Calculator</h3>
+        <p>All-in-One Calculator — Standard · RPN · Programmer · Converter · Themes</p>
+        <a href="https://bismay-exe.github.io/Mechanical-Calculator/">
+          <img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
+        </a><br><br>
+        <img src="https://github.com/Bismay-exe/Mechanical-Calculator/raw/main/assets/screenshots/std.png" width="250px" alt="Mechanical Calculator Preview" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
