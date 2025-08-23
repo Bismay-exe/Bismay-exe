@@ -7,14 +7,6 @@
 
 ---
 
-# Hi 👋, I'm Bismay-exe
-
-<!-- CARDS-START -->
-<!-- CARDS-END -->
-
-
----
-
 ## 👾 Who Am I?  
 
 <p align="center">
