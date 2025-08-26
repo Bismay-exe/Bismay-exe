@@ -114,6 +114,15 @@
         </a><br><br>
         <img src="https://github.com/Bismay-exe/Mechanical-Calculator/raw/main/assets/screenshots/std.png" width="250px" alt="Mechanical Calculator Preview" />
       </td>
+      <!-- Crypto converter -->
+      <td align="center" width="33%">
+        <h3>💱 Crypto converter</h3>
+        <p>Realtime BTC, ETH & LTC ↔ INR, USD, EUR | Sleek Glassmorphic UI ⚡</p>
+        <a href="https://bismay-exe.github.io/Crypto-converter/">
+          <img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
+        </a><br><br>
+        <img src="https://github.com/Bismay-exe/Crypto-converter/raw/main/assets/converter.gif" width="250px" alt="Crypto converter Preview" />
+      </td>
     </tr>
   </table>
 </p>
@@ -146,17 +155,16 @@
 
 ## ASCII Banner
 
-<!--ascii-start-->
 Font: `shadow`
 Message: `Open Source ❤️`
 ```text
-  _ \                     ___|                              /\\  \  _  /_)  _) 
- |   | __ \   _ \ __ \  \___ \   _ \  |   |  __| __|  _ \   _` |   (   |   |   
- |   | |   |  __/ |   |       | (   | |   | |   (     __/  (   |   ___ \   |   
-\___/  .__/ \___|_|  _| _____/ \___/ \__,_|_|  \___|\___| \__,_| \/    /  _|   
-      _|                                                                    _) 
+__________.__                                                            
+\______   \__| ______ _____ _____  ___.__.           ____ ___  ___ ____  
+ |    |  _/  |/  ___//     \\__  \<   |  |  ______ _/ __ \\  \/  // __ \ 
+ |    |   \  |\___ \|  Y Y  \/ __ \\___  | /_____/ \  ___/ >    <\  ___/ 
+ |______  /__/____  >__|_|  (____  / ____|          \___  >__/\_ \\___  >
+        \/        \/      \/     \/\/                   \/      \/    \/ 
 ```
-<!--ascii-end-->
 
 ---
 
