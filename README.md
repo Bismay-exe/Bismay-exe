@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+👨‍💻;Always+learning+%26+building;Exploring+Cloud+%26+DevOps;Writing+on+Dev.to;Open+to+collaboration!" />
-  <img src="assets/walk-cycle-transparent.gif" width="200" />
 </p>
 
 ---
