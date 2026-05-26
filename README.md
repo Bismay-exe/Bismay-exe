@@ -147,7 +147,7 @@
 <table>
   <tr>
     <td>
-      📊 GitHub Streak:
+      🔥 GitHub Streak:
     </td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@
   </tr>
   <tr>
     <td>
-      <img src="">
+      <img src="https://githubcard.com/Bismay-exe.svg?d=26_OVj3x">
     </td>
   </tr>
 </table>
@@ -206,7 +206,7 @@
   </tr>
   <tr>
     <td>
-      <img src="">
+      <img src="https://githubcard.com/Bismay-exe.svg?d=26_OVj3x">
     </td>
   </tr>
 </table>
