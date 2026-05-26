@@ -143,57 +143,70 @@
 
 
 
-### 🍩 Languages Donut:
-
-<img src="https://githubcard.com/Bismay-exe.svg?d=26_OVj3x" >
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bismay-exe&theme=transparent)
-
-### 🍩 Languages by Commits:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bismay-exe&theme=transparent&)
-
-### 🍩 Stats:
-
 <table>
-<tr>
-<td style="background-color:#161b22; padding:12px;">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bismay-exe&theme=transparent">
-
-</td>
-</tr>
+  <tr>
+    <td>
+      🍩 Languages Donut:
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://githubcard.com/Bismay-exe.svg?d=26_OVj3x">
+    </td>
+  </tr>
 </table>
 
 <table>
-<tr>
-<td bgcolor="#161b22">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bismay-exe&theme=transparent"/>
-
-</td>
-</tr>
+  <tr>
+    <td>
+      🧠 Languages by Repo:
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bismay-exe&theme=transparent">
+    </td>
+  </tr>
 </table>
 
-<div style="background:#808080;padding:12px;border-radius:16px;display:inline-block;">
+<table>
+  <tr>
+    <td>
+      🔤 Languages by Commits:
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bismay-exe&theme=transparent&">
+    </td>
+  </tr>
+</table>
 
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bismay-exe&theme=transparent"
-/>
+<table>
+  <tr>
+    <td>
+      🕸️ Contribution Radar:
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://githubcard.com/Bismay-exe.svg?d=XYbIT401">
+    </td>
+  </tr>
+</table>
 
-</div>
-
-### 🍩 Productive Time:
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bismay-exe&theme=transparent&utcOffset=8)
-
-
-
-
-
-### 🕸️ Contribution Radar:
-
-<img src="https://githubcard.com/Bismay-exe.svg?d=XYbIT401" >
-
+<table>
+  <tr>
+    <td>
+      ⏳ Productive Time:
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bismay-exe&theme=transparent&utcOffset=8">
+    </td>
+  </tr>
+</table>
 
 
 ---
