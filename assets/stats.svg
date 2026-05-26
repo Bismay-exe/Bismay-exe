@@ -1,0 +1,14 @@
+<svg width="550" height="250" xmlns="http://www.w3.org/2000/svg">
+  <rect
+    width="100%"
+    height="100%"
+    rx="18"
+    fill="#80808010"
+  />
+
+  <image
+    href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bismay-exe&theme=transparent"
+    width="550"
+    height="250"
+  />
+</svg>
