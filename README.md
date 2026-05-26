@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yo!%20I'm%20Bismay&desc=Code%20Enthusiast%20%7C%20Open-source%20Learner%20%7C%20Dev.to%20Writer&fontAlign=50&fontSize=70&descSize=20&descAlignY=53&descAlign=59&fontAlignY=40&fontColor=FFFFFF)
+![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yo!%20I'm%20Bismay&desc=Code%20Enthusiast%20%7C%20Open-source%20Learner%20%7C%20Dev.to%20Writer&fontAlign=50&fontSize=70&descSize=20&descAlignY=53&descAlign=59&fontAlignY=40&fontColor=CCCCCC)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+👨‍💻;Always+learning+%26+building;Exploring+Cloud+%26+DevOps;Writing+on+Dev.to;Open+to+collaboration!" />
@@ -152,12 +152,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Bismay-exe&theme=dracula&hide_border=true&background=80808010&stroke=EB9EB6&dates=808080" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Bismay-exe&theme=radical&hide_border=true&border_radius=0&background=00000000&stroke=FF67A0&dates=32E0EB" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -240,13 +238,12 @@
 ## 📊 GitHub Metrics Dashboard
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=📊%20My%20Metrics&fontAlign=50&fontAlignY=35&fontSize=25&fontColor=FFFFFF" />
   <img src="https://raw.githubusercontent.com/Bismay-exe/Bismay-exe/main/metrics.svg" width="95%" />
 </p>
 
 ---
 
-## ASCII Banner
+## 🪧 ASCII Banner
 
 Font: `shadow`
 Message: `Open Source ❤️`
@@ -267,19 +264,3 @@ __________.__
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"/><br>
   <b>“Code is like art 🎨 — every line you write shapes the future you’re building.”</b>
 </p>
-<!-- CARDS-START -->
-## 📦 My Projects
-
-<p align="center">
-
-</p>
-
-<p align="center">
-
-</p>
-
-<p align="center">
-
-</p>
-
-<!-- CARDS-END -->
