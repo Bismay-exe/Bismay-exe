@@ -136,18 +136,64 @@
 
 ---
 
-## 📊 GitHub Stats (Liquid Glass)  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bismay-exe&show_icons=true&theme=transparent&bg_color=30,000000,434343&title_color=FF61D8&text_color=FFFFFF&icon_color=00FFF7&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bismay-exe&theme=transparent&background=000000&ring=00FFF7&fire=FF61D8&currStreakLabel=FFD700&sideNums=FFFFFF&hide_border=true" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bismay-exe&layout=compact&theme=transparent&bg_color=30,000000,434343&title_color=FF61D8&text_color=FFFFFF&hide_border=true" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bismay-exe&theme=react-dark&bg_color=000000&color=00FFF7&line=FF61D8&point=FFD700&hide_border=true" />
-</p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bismay-exe&theme=dracula&hide_border=true&background=80808010&stroke=EB9EB6&dates=808080" alt="GitHub Streak" /></a>
+
+
+
+### 🍩 Languages Donut:
+
+<img src="https://githubcard.com/Bismay-exe.svg?d=26_OVj3x" >
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bismay-exe&theme=transparent)
+
+### 🍩 Languages by Commits:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bismay-exe&theme=transparent&)
+
+### 🍩 Stats:
+
+<table>
+<tr>
+<td style="background-color:#161b22; padding:12px;">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bismay-exe&theme=transparent">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td bgcolor="#161b22">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bismay-exe&theme=transparent"/>
+
+</td>
+</tr>
+</table>
+
+<div style="background:#808080;padding:12px;border-radius:16px;display:inline-block;">
+
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bismay-exe&theme=transparent"
+/>
+
+</div>
+
+### 🍩 Productive Time:
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bismay-exe&theme=transparent&utcOffset=8)
+
+
+
+
+
+### 🕸️ Contribution Radar:
+
+<img src="https://githubcard.com/Bismay-exe.svg?d=XYbIT401" >
+
 
 
 ---
@@ -179,6 +225,13 @@ __________.__
        src="https://raw.githubusercontent.com/Bismay-exe/Bismay-exe/output/snake.svg">
 </picture>
 </p>
+
+
+---
+
+## 📈 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bismay-exe&bg_color=80808010&color=fe428e&line=bb00ff&point=ff00bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
