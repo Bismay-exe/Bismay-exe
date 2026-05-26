@@ -85,15 +85,10 @@
 
 ### 🅰️ No Bad Fonts: 
 <table>
-  <tr>
-    <td colspan="10">
-      No Bad Fonts:
-    </td>
-  </tr>
   
   <tr>
-    <td colspan="2">
-      NoBadFonts is a curated library of typefaces built for designers who care about how things feel, not just how they look.  
+    <td colspan="10">
+      🔤 NoBadFonts is a curated library of typefaces ✨ built for designers 🎨 who care about how things feel 🖤 not just how they look.  
     </td>
   </tr>
   
