@@ -206,7 +206,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://githubcard.com/Bismay-exe.svg?d=26_OVj3x">
+      <img src="https://githubcard.com/Bismay-exe.svg?d=wtjd6Rd_">
     </td>
   </tr>
 </table>
