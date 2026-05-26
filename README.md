@@ -83,48 +83,54 @@
 
 ## ✨ Featured Projects
 
-<p align="center">
-  <table>
-    <tr>
-      <!-- Beautiful Notes -->
-      <td align="center" width="33%">
-        <h3>📝 Beautiful Notes</h3>
-        <p>Take Beautiful Notes with Glassmorphism UI, Smart Search, Sorting, and Fullscreen</p>
-        <a href="https://bismay-exe.github.io/Beautiful-Notes/">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
-        </a><br><br>
-        <img src="https://github.com/Bismay-exe/Beautiful-Notes/raw/main/assets/screenshots/notes-grid.png" width="250px" alt="Beautiful Notes Preview" />
-      </td>
-      <!-- Heavenly Archive -->
-      <td align="center" width="33%">
-        <h3>✨ Heavenly Archive</h3>
-        <p>Glassmorphism Media Gallery with Filters, Sorting, Backgrounds, and Lightbox</p>
-        <a href="https://bismay-exe.github.io/Heavenly-Archive/">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
-        </a><br><br>
-        <img src="https://github.com/Bismay-exe/My-Heavenly-Archive/raw/main/assets/screenshots/light_mode.png" width="250px" alt="Heavenly Archive Preview" />
-      </td>
-      <!-- Mechanical Calculator -->
-      <td align="center" width="33%">
-        <h3>🖩 Mechanical Calculator</h3>
-        <p>All-in-One Calculator — Standard · RPN · Programmer · Converter · Themes</p>
-        <a href="https://bismay-exe.github.io/Mechanical-Calculator/">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
-        </a><br><br>
-        <img src="https://github.com/Bismay-exe/Mechanical-Calculator/raw/main/assets/screenshots/std.png" width="250px" alt="Mechanical Calculator Preview" />
-      </td>
-      <!-- Crypto converter -->
-      <td align="center" width="33%">
-        <h3>💱 Crypto converter</h3>
-        <p>Realtime BTC, ETH & LTC ↔ INR, USD, EUR | Sleek Glassmorphic UI ⚡</p>
-        <a href="https://bismay-exe.github.io/Crypto-converter/">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
-        </a><br><br>
-        <img src="https://github.com/Bismay-exe/Crypto-converter/raw/main/assets/converter.gif" width="250px" alt="Crypto converter Preview" />
-      </td>
-    </tr>
-  </table>
-</p>
+### 🅰️ No Bad Fonts: 
+<table>
+  <tr>
+    <td colspan="10">
+      No Bad Fonts:
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2">
+      NoBadFonts is a curated library of typefaces built for designers who care about how things feel, not just how they look.  
+    </td>
+  </tr>
+  
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td width="300" align="center">
+      <a href="https://github.com/Bismay-exe/nobadfonts">
+        <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/nobadfonts/assets/nobadfonts-repo-card.png" width="324" />
+      </a>
+    </td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/nobadfonts/assets/landing-dark.png" width="300" /></td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/nobadfonts/assets/landing-light.png" width="300" /></td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/nobadfonts/assets/fonts-dark.gif" width="300" /></td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/nobadfonts/assets/fontpage-light.png" width="300" /></td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/nobadfonts/assets/fonts-light.gif" width="300" /></td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/nobadfonts/assets/fontpage-dark.png" width="300" /></td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/nobadfonts/assets/thunder-font.gif" width="300" /></td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/nobadfonts/assets/banner.png" width="300" /></td>
+    <td width="300" align="center">
+      <a href="https://www.nobadfonts.in/">
+        <img src="https://img.shields.io/badge/🌐%20Live%20Website-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
