@@ -144,8 +144,18 @@
 
 ## 📊 GitHub Stats
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bismay-exe&theme=dracula&hide_border=true&background=80808010&stroke=EB9EB6&dates=808080" alt="GitHub Streak" /></a>
+<table>
+  <tr>
+    <td>
+      📊 GitHub Streak:
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Bismay-exe&theme=dracula&hide_border=true&background=80808010&stroke=EB9EB6&dates=808080" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 
 
@@ -157,20 +167,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://githubcard.com/Bismay-exe.svg?d=26_OVj3x">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      🧠 Languages by Repo:
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bismay-exe&theme=transparent">
+      <img src="">
     </td>
   </tr>
 </table>
@@ -191,19 +188,6 @@
 <table>
   <tr>
     <td>
-      🕸️ Contribution Radar:
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://githubcard.com/Bismay-exe.svg?d=XYbIT401">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
       ⏳ Productive Time:
     </td>
   </tr>
@@ -214,21 +198,19 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      🕸️ Contribution Radar:
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="">
+    </td>
+  </tr>
+</table>
 
----
-
-## ASCII Banner
-
-Font: `shadow`
-Message: `Open Source ❤️`
-```text
-__________.__                                                            
-\______   \__| ______ _____ _____  ___.__.           ____ ___  ___ ____  
- |    |  _/  |/  ___//     \\__  \<   |  |  ______ _/ __ \\  \/  // __ \ 
- |    |   \  |\___ \|  Y Y  \/ __ \\___  | /_____/ \  ___/ >    <\  ___/ 
- |______  /__/____  >__|_|  (____  / ____|          \___  >__/\_ \\___  >
-        \/        \/      \/     \/\/                   \/      \/    \/ 
-```
 
 ---
 
@@ -261,6 +243,21 @@ __________.__
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=📊%20My%20Metrics&fontAlign=50&fontAlignY=35&fontSize=25&fontColor=FFFFFF" />
   <img src="https://raw.githubusercontent.com/Bismay-exe/Bismay-exe/main/metrics.svg" width="95%" />
 </p>
+
+---
+
+## ASCII Banner
+
+Font: `shadow`
+Message: `Open Source ❤️`
+```text
+__________.__                                                            
+\______   \__| ______ _____ _____  ___.__.           ____ ___  ___ ____  
+ |    |  _/  |/  ___//     \\__  \<   |  |  ______ _/ __ \\  \/  // __ \ 
+ |    |   \  |\___ \|  Y Y  \/ __ \\___  | /_____/ \  ___/ >    <\  ___/ 
+ |______  /__/____  >__|_|  (____  / ____|          \___  >__/\_ \\___  >
+        \/        \/      \/     \/\/                   \/      \/    \/ 
+```
 
 ---
 
