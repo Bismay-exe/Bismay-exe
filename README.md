@@ -65,19 +65,20 @@
 ## 💎 Some Of My Projects
 
 <p align="center">
-  <a href="https://github.com/Bismay-exe/Bismay-exe">
-    <img src="assets/card1.png" width="400px" />
+  <a href="https://github.com/Bismay-exe/portfolio-v5">
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v5-repo-card.png" width="324" />
   </a>
-  <a href="https://github.com/Bismay-exe/Beautiful-Notes">
-    <img src="assets/card2.png" width="400px" />
+  <a href="https://github.com/Bismay-exe/nobadfonts">
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/nobadfonts-repo-card.png" width="324" />
   </a>
-  <a href="https://github.com/Bismay-exe/My-Heavenly-Archive">
-    <img src="assets/card3.png" width="400px" />
+  <a href="https://bismay-portfolio-v4.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v4-repo-card.png" width="324" />
   </a>
-  <a href="https://github.com/Bismay-exe/Mechanical-Calculator">
-    <img src="assets/card4.png" width="400px" />
+  <a href="https://github.com/Bismay-exe/CSS-Shape-Generator">
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/css-shape-generator-repo-card.png" width="324" />
   </a>
 </p>
+
 
 ---
 
@@ -171,7 +172,7 @@
   
   <tr>
     <td colspan="3">
-      🧩 Portfolio-V5
+      🧩 Portfolio-V4
     </td>
   </tr>
   
