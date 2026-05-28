@@ -1,8 +1,7 @@
-name: Generate GitArtWork
+name: gitartwork
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
   workflow_dispatch:
 
 permissions:
@@ -13,16 +12,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
       - uses: jasineri/gitartwork@v1
         with:
-          user_name: Bismay-exe
-          text: BISMAY
+          user_name: YOUR_USERNAME
+          text: YOUR_TEXT
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: jasineri/simple-push-action@v1
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "generate gitartwork"
