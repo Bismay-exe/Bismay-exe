@@ -16,8 +16,8 @@ jobs:
 
       - uses: jasineri/gitartwork@v1
         with:
-          user_name: YOUR_USERNAME
-          text: YOUR_TEXT
+          user_name: Bismay-exe
+          text: BISMAY
 
       - uses: jasineri/simple-push-action@v1
         with:
