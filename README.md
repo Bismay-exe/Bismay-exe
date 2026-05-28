@@ -382,6 +382,8 @@ __________.__
 
 ---
 
+<!-- ![gitartwork](./gitartwork.svg) -->
+
 ## ✨ Quote / Motto  
 
 <p align="center">
