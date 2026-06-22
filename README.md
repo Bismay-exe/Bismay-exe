@@ -258,10 +258,10 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,nodejs,react,git,github,docker,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,threejs,vite,nodejs,npm,pnpm,firebase,aws,cloudflare,docker,git,github,githubactions,gitlab,netlify,py,java,flutter,mysql,blender,figma,ai,ps,pr,svg,md,vscode,pycharm,powershell,linux,ubuntu,arch,windows,wordpress,notion,gmail,codepen,replit&theme=dark" />
 </p>
 
 ---
