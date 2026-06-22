@@ -260,12 +260,70 @@
 
 ## 🛠️ Tech Stack
 
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,threejs,vite&theme=dark" />
+</p>
+
+### ⚙️ Backend & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,pnpm,firebase,aws,cloudflare,docker&theme=dark" />
+</p>
+
+### 🔀 Version Control & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,netlify&theme=dark" />
+</p>
+
+### 💻 Languages & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,flutter,mysql&theme=dark" />
+</p>
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,figma,ai,ps,pr,svg&theme=dark" />
+</p>
+
+### 🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=md,vscode,pycharm,powershell&theme=dark" />
+</p>
+
+### 💻 Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,windows&theme=dark" />
+</p>
+
+### 🌍 CMS & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,notion,gmail&theme=dark" />
+</p>
+
+### ☁️ Online Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=codepen,replit&theme=dark" />
+</p>
+
+---
+<!--
+## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,threejs,vite,nodejs,npm,pnpm,firebase,aws,cloudflare,docker,git,github,githubactions,gitlab,netlify,py,java,flutter,mysql,blender,figma,ai,ps,pr,svg,md,vscode,pycharm,powershell,linux,ubuntu,arch,windows,wordpress,notion,gmail,codepen,replit&theme=dark" />
 </p>
 
 ---
-
+-->
 ## 📊 GitHub Stats
 
 <table>
