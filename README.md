@@ -263,13 +263,28 @@
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,threejs,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,pnpm,firebase,aws,cloudflare,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pnpm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
 </p>
 
 ### 🔀 Version Control & CI/CD
@@ -287,7 +302,12 @@
 ### 🎨 Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=blender,figma,ai,ps,pr,svg&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pr&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=svg&theme=dark" />
 </p>
 
 ### 🛠️ Development Tools
