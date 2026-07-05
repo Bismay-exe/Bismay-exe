@@ -68,9 +68,9 @@
   <a href="https://github.com/Bismay-exe/portfolio-v5">
     <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v5-repo-card.png" width="400" />
   </a>
-  <a href="https://github.com/Bismay-exe/nobadfonts">
+<!--  <a href="https://github.com/Bismay-exe/nobadfonts">
     <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/nobadfonts-repo-card.png" width="400" />
-  </a>
+  </a>  -->
   <a href="https://bismay-portfolio-v4.vercel.app/">
     <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v4-repo-card.png" width="400" />
   </a>
@@ -119,7 +119,7 @@
   </tr>
 </table>
 
-<table>
+<!--  <table>
   
   <tr>
     <td colspan="3">
@@ -166,7 +166,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table>  -->
 
 <table>
   
