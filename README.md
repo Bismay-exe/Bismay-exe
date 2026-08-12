@@ -65,6 +65,9 @@
 ## 💎 Some Of My Projects
 
 <p align="center">
+  <a href="https://github.com/Bismay-exe/portfolio-v6">
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v6-repo-card.png" width="400" />
+  </a>
   <a href="https://github.com/Bismay-exe/portfolio-v5">
     <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v5-repo-card.png" width="400" />
   </a>
@@ -83,6 +86,41 @@
 ---
 
 ## ✨ Featured Projects
+
+<table>
+  
+  <tr>
+    <td colspan="3">
+      📰 Portfolio-V6
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="3">
+      A cinematic, interaction-first developer portfolio. Built with React 19, GSAP, Tailwind CSS v4, and a lot of attention to detail.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td width="300" align="center">
+      <a href="https://github.com/Bismay-exe/portfolio-v5">
+        <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v6-repo-card.png" width="324" />
+      </a>
+    </td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/portfolio-v6/assets/hero.png" width="300" /></td>
+    <td width="300" align="center">
+      <a href="https://bismay-portfolio-v6.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐%20Live%20Website-FF0000?style=for-the-badge&logo=code&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table>
   
