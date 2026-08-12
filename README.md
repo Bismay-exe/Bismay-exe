@@ -109,11 +109,11 @@
 
   <tr>
     <td width="300" align="center">
-      <a href="https://github.com/Bismay-exe/portfolio-v5">
+      <a href="https://github.com/Bismay-exe/portfolio-v6">
         <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v6-repo-card.png" width="324" />
       </a>
     </td>
-    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/portfolio-v6/assets/hero.png" width="300" /></td>
+    <td width="300" align="center"><img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/portfolio-v6/assets/hero.gif" width="300" /></td>
     <td width="300" align="center">
       <a href="https://bismay-portfolio-v6.vercel.app/">
         <img src="https://img.shields.io/badge/🌐%20Live%20Website-FF0000?style=for-the-badge&logo=code&logoColor=white" />
