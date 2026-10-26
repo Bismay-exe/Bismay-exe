@@ -66,19 +66,19 @@
 
 <p align="center">
   <a href="https://github.com/Bismay-exe/portfolio-v6">
-    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v6-repo-card.png" width="400" />
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v6-repo-card.png" width="420" />
   </a>
-  <a href="https://github.com/Bismay-exe/portfolio-v5">
-    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v5-repo-card.png" width="400" />
-  </a>
-<!--  <a href="https://github.com/Bismay-exe/nobadfonts">
-    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/nobadfonts-repo-card.png" width="400" />
-  </a>  -->
+  <!-- <a href="https://github.com/Bismay-exe/portfolio-v5">
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v5-repo-card.png" width="420" />
+  </a> -->
+ <a href="https://github.com/Bismay-exe/nobadfonts">
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/nobadfonts-repo-card.png" width="420" />
+  </a> 
   <a href="https://bismay-portfolio-v4.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v4-repo-card.png" width="400" />
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/portfolio-v4-repo-card.png" width="420" />
   </a>
   <a href="https://github.com/Bismay-exe/CSS-Shape-Generator">
-    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/css-shape-generator-repo-card.png" width="400" />
+    <img src="https://raw.githubusercontent.com/Bismay-exe/README.md/main/repo-cards/css-shape-generator-repo-card.png" width="420" />
   </a>
 </p>
 
