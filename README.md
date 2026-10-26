@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+👨‍💻;Always+learning+%26+building;Exploring+Cloud+%26+DevOps;Writing+on+Dev.to;Open+to+collaboration!" />
 </p>
 
----
+<br><br>
 
 ## 👾 Who Am I?  
 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Open--Source-Collaborator-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
 </p>
 
----
+<br><br>
 
 ## 🌐 Connect with me
 
@@ -60,7 +60,7 @@
 </p>
 
 
----
+<br><br>
 
 ## 💎 Some Of My Projects
 
@@ -83,7 +83,7 @@
 </p>
 
 
----
+<br><br>
 
 ## ✨ Featured Projects
 
@@ -294,7 +294,7 @@
   </tr>
 </table>
 
----
+<br><br>
 
 ## 🛠️ Tech Stack
 
@@ -372,7 +372,7 @@
   <img src="https://skillicons.dev/icons?i=codepen,replit&theme=dark" />
 </p>
 
----
+<br><br>
 <!--
 ## 🛠️ Tech Stack
 
@@ -380,7 +380,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,threejs,vite,nodejs,npm,pnpm,firebase,aws,cloudflare,docker,git,github,githubactions,gitlab,netlify,py,java,flutter,mysql,blender,figma,ai,ps,pr,svg,md,vscode,pycharm,powershell,linux,ubuntu,arch,windows,wordpress,notion,gmail,codepen,replit&theme=dark" />
 </p>
 
----
+<br><br>
 -->
 ## 📊 GitHub Stats
 
@@ -450,7 +450,7 @@
 </table>
 
 
----
+<br><br>
 
 ## 🐍 Contribution Snake
 
@@ -466,14 +466,14 @@
 </p>
 
 
----
+<br><br>
 
 ## 📈 Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bismay-exe&bg_color=80808010&color=fe428e&line=bb00ff&point=ff00bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
----
+<br><br>
 
 ## 📊 GitHub Metrics Dashboard
 
@@ -481,7 +481,7 @@
   <img src="https://raw.githubusercontent.com/Bismay-exe/Bismay-exe/main/metrics.svg" width="95%" />
 </p>
 
----
+<br><br>
 
 ## 🪧 ASCII Banner
 
@@ -496,7 +496,7 @@ __________.__
         \/        \/      \/     \/\/                   \/      \/    \/ 
 ```
 
----
+<br><br>
 
 <!-- ![gitartwork](./gitartwork.svg) -->
 
